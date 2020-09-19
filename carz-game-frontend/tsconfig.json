@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "outDir": "build",
+        "esModuleInterop" : true,
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "esnext",
+        "target": "esnext",
+        "jsx": "react",
+        "moduleResolution": "node"
+    },
+    "include": ["src"]
+}
